@@ -1,0 +1,19 @@
+What is Algorthm Trading 
+Using Computers to make investment decisions 
+
+
+Main Players
+
+1. Renaissance Technologies 
+2. AQR Capital Management
+3. Citadel Securities
+
+
+Libraries to be used
+1. Numpy (Side note: Rust Equivalent)
+
+Trading Process
+1. Collect Data
+2. Develop a hypothesis for a strategy
+3. Backtest that strategy 
+4. Implement the strategy to prod
