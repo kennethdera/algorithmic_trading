@@ -17,3 +17,9 @@ Trading Process
 2. Develop a hypothesis for a strategy
 3. Backtest that strategy 
 4. Implement the strategy to prod
+
+
+S&P 500 Project Procedure
+
+
+
